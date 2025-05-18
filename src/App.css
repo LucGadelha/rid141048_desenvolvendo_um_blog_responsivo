@@ -1,0 +1,6 @@
+
+/* Cleared App.css as Tailwind will handle most styles */
+/* We can add global base styles here if needed later */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
